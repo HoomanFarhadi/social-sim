@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    background: #D4AF77;
+	width: 1002px;
+    margin: 0 auto;
+}
+
+#time {
+    position: absolute;
+    text-align: left;
+    font-weight: bold;
+    background: rgba(0, 0, 0, 0.2);
+	border-radius: 3px;
+    width: 165px;
+    padding: 3px;
+    color: #000;
+    font-size: 20px;
+}
+
+#map {
+	position: relative;
+    background: beige;
+	height: 800px;
+	width: 800px;
+    border: 1px solid maroon;
+	border-radius: 7px;
+    margin: 10px auto;
+}
+
+.person {
+	position: absolute;
+	opacity: 0;
+	border-radius: 6px;
+	height: 25px;
+	width: 25px;
+}

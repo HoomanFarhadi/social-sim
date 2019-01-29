@@ -11,6 +11,17 @@ Once the simulation is executed, new agents will be spawned into the environment
 
 ### How to Use
 
+Simply set the parameters to the desired values and run the program. The relevant parameters are:
+
+* socialReward (for approaching an agent), lonerReward, talkReward 
+* Expected values of appearance, personality, appearance preference, personality preference, respective weights
+* Expected values of socialFear and curiosity
+* Model capacity
+* Number of time steps the simulation will run for
+* Simulation speed
+
 ### Initial Observations
+
+
 
 ### Next Steps

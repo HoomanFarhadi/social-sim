@@ -22,6 +22,6 @@ Simply set the parameters to the desired values and run the program. The relevan
 
 <!-- ### Initial Observations -->
 
-
+<!-- photos, videos, other demonstrations -->
 
 <!-- ### Next Steps -->
